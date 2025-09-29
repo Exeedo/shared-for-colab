@@ -1,5 +1,5 @@
 """
--- Linked List -- Part 1+2 --
+-- Linked List -- Part 2 --
 
 This is a part of the DDDS Guide. Prepared by Osama Khallouf.
 
